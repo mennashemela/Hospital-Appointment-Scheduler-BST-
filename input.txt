@@ -1,0 +1,19 @@
+6
+Ahmed Hassan
+3
+Cardiology
+Sara Ali
+1
+Emergency
+Mona Youssef
+5
+Dermatology
+Omar Khaled
+2
+Neurology
+Layla Ibrahim
+4
+Pediatrics
+Karim Adel
+1
+Emergency
